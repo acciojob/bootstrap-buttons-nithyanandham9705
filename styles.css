@@ -8,7 +8,7 @@
     background-color: info;
     /* Other customizations */
 }
-#button-5.btn.btn-warning {
+#button-5.btn.btn-warning.btn-lg.btn-block {
     background-color: warning;
     /* Other customizations */
 }
